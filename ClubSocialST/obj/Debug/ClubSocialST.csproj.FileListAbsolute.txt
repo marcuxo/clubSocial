@@ -1,0 +1,6 @@
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\bin\Debug\ClubSocialST.exe.config
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\bin\Debug\ClubSocialST.exe
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\bin\Debug\ClubSocialST.pdb
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\obj\Debug\ClubSocialST.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\obj\Debug\ClubSocialST.exe
+c:\users\developer\documents\visual studio 2013\Projects\ClubSocialST\ClubSocialST\obj\Debug\ClubSocialST.pdb
